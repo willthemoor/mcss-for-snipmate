@@ -1,0 +1,6 @@
+A brute force port of Minimal Design's (life changing) mcss.tmbundle to snipMate. See https://github.com/minimaldesign/mCSS.tmbundle for the original goodness.
+You'll need https://github.com/msanders/snipmate.vim for this to work, but you knew that.
+
+Put css.snippets inside of your ~/.vim/snippets directory. If you'd like the snippets to be available right away, run this :exec ReloadAllSnippets().
+
+
