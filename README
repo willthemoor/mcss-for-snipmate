@@ -1,6 +1,12 @@
 A brute force port of Minimal Design's (life changing) mcss.tmbundle to snipMate. See https://github.com/minimaldesign/mCSS.tmbundle for the original goodness.
+
 You'll need https://github.com/msanders/snipmate.vim for this to work, but you knew that.
 
 Put css.snippets inside of your ~/.vim/snippets directory. If you'd like the snippets to be available right away, run this :exec ReloadAllSnippets().
 
+To find out more about the individual triggers visit http://minimaldesign.net/downloads/tools/textmate-css-bundle. Basically type acronyms for css properties and hit tab.
+
+lstn ->| list-style-type: none;
+vv ->| visibility: visible;
+or v ->| to get a list of all visibility properties.
 
